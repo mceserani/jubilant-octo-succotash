@@ -1,0 +1,24 @@
+{
+  "name": "jubilant-octo-succotash",
+  "version": "1.0.0",
+  "description": "Simple API with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mceserani/jubilant-octo-succotash.git"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/jubilant-octo-succotash/issues"
+  },
+  "homepage": "https://github.com/mceserani/jubilant-octo-succotash#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  },
+  "type": "module"
+}
